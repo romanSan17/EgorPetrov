@@ -1,21 +1,18 @@
-# Файлы ОС
+# Папки сборки
+bin/
+obj/
+
+# Файлы Visual Studio
+*.user
+*.suo
+*.vcxproj.user
+*.vsp
+
+# Логи и временные файлы
 *.log
 *.tmp
 *.bak
 
-# Бинарные файлы и сборки
-*.exe
-*.dll
-*.class
-*.o
-*.so
+# Папки зависимостей
+packages/
 
-# Каталоги сборки/IDE
-bin/
-obj/
-.vscode/
-.idea/
-
-# Библиотеки и зависимости
-node_modules/
-vendor/
