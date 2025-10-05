@@ -1,0 +1,21 @@
+# Файлы ОС
+*.log
+*.tmp
+*.bak
+
+# Бинарные файлы и сборки
+*.exe
+*.dll
+*.class
+*.o
+*.so
+
+# Каталоги сборки/IDE
+bin/
+obj/
+.vscode/
+.idea/
+
+# Библиотеки и зависимости
+node_modules/
+vendor/
